@@ -1,0 +1,4 @@
+1. Plus.py를 통한 이미지에서의 차량 검출
+2. cont_car.py를 통한 일부 함수를 openCV를 사용하지 않고 다시 코딩
+3. plus contour.py로 plus.py와 cont.py통합
+4. 시간 계산.xlsx ->plus.py와 plus contour.py의 시간 차이 계산
